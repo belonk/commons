@@ -150,7 +150,7 @@
         <!--junit-->
         <junit.version>4.8.2</junit.version>
         <com.belerweb.pinyin4j.version>2.5.0</com.belerweb.pinyin4j.version>
-        <org.quartz.version>2.2.2</org.quartz.version>
+        <org.quartz.version>2.3.2</org.quartz.version>
     </properties>
 
     <dependencyManagement>
